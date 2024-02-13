@@ -12,7 +12,10 @@ The problem of plant disease detection from leaf images is attractive due to its
 
 ## Dataset Used:
 https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
-( I have used 38 classes color images)
+1. color
+2. grayscale
+3. segmented
+You can find 3 directories, this project used the color images for training and testing.
 
 ## Code in html
 https://bkurian6601.github.io/CSCN8010-lab-submissions/8946601/plant-disease-detection-using-keras.html
